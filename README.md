@@ -21,4 +21,8 @@ pip install -r bot_req.txt
 python run_bot.py
 ```
 
+## More details
 
+Learn more about the project on LinkedIn
+
+[ Motivation and Challenges encountered](https://www.linkedin.com/posts/codit-zeey_introduction-greetings-everyone-welcome-activity-7243676403433377792-nBWR?utm_source=share&utm_medium=member_android)
