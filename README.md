@@ -26,3 +26,11 @@ python run_bot.py
 Learn more about the project on LinkedIn
 
 [ Motivation and Challenges encountered](https://www.linkedin.com/posts/codit-zeey_introduction-greetings-everyone-welcome-activity-7243676403433377792-nBWR?utm_source=share&utm_medium=member_android)
+
+## Tech stack
+<p align="center">
+  <img src="https://github.com/coditzeey/golden_fvg/blob/master/Alx%20portfolio%20project_page-0001~2.jpg"
+       alt="My Tech Stack"
+       width="600"
+  />
+</p>
