@@ -6,5 +6,19 @@ This project was developed at ALX software engineering program as a mandatory po
   An Algorithmic trading bot, built for traders with coding experience. Feel free to extend the code.
 </p>
 
-## Description
-Golden Fvg is trading bot built for easy implementation of trading strategies with different brokers.
+## A basic overview
+Golden Fvg is a trading bot built for easy implementation of trading strategies with different brokers.
+
+## Install requirements
+```bash
+git clone https://github.com/coditzeey/golden_fvg.git
+
+pip install -r bot_req.txt
+```
+## Usage
+
+```bash
+python run_bot.py
+```
+
+
