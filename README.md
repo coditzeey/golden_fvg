@@ -1,4 +1,4 @@
-## Golden fvg
+## A kind reminder
 This project was developed at ALX software engineering program as a mandatory portfolio project. Currently not providing live access or preview of the project
 
 <h1 align="center">Golden Fvg</h1>
@@ -6,5 +6,5 @@ This project was developed at ALX software engineering program as a mandatory po
   An Algorithmic trading bot, built for traders with coding experience. Feel free to extend the code.
 </p>
 
-##Description
-
+## Description
+Golden Fvg is trading bot built for easy implementation of trading strategies with different brokers.
