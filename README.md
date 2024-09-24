@@ -1,1 +1,1 @@
-# Golden fvg - Just a trading bot 
+## Golden fvg - Just a trading bot 
